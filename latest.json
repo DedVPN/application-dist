@@ -1,10 +1,10 @@
 {
-  "version": "0.0.3",
-  "notes": "pub_date",
+  "version": "0.5.0",
+  "notes": "Публичный релиз приложения",
   "platforms": {
     "windows-x64": {
-      "url": "https://github.com/DedVPN/application-dist/blob/master/dist/windows-x64/DedVPN_0.0.3_x64_ru-RU.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWUhpb29UckNlbkhwTVBuRlpEc3FBcm5iU01DL0NrSUdWa3JZdDlpemlvcnNoYzdwTmN2QUFkZDZ5U2NHSnY1MklkRGx0TSs0ZnJrd3kzeUQ0MjNLTDVBOU8rdzE4MlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1Njk1MjUxCWZpbGU6RGVkVlBOXzAuMC4zX3g2NF9ydS1SVS5tc2kKR29obnZXTkZXZVVuRURmRWpzSm01WXd0T2RROWxIc1NjdGRsVFkyckl2dnNUcHhkbzI1dFg3bjNncmpZRDlyWlRLNnJjOEZOVjVBb2EvajdYSmptQ1E9PQo="
+      "url": "https://github.com/DedVPN/application-dist/blob/master/dist/windows-x64/DedVPN_0.5.0_x64_ru-RU.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWUhpb29UckNlblBEaS9qcHcvZWo3by9BNU0wUGhVVkVTZUFySEhNT3p2OTQvc3ltdDlDTk5sQk8zaWlMbjh0dHdUTUQvRFF4RGtUWXBKWElDR0RTT1lnUm1WRTF0S2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1Njk3NTI0CWZpbGU6RGVkVlBOXzAuNS4wX3g2NF9ydS1SVS5tc2kKTm1EYUdjN2JaVkhCcTFNMURITE1zT3c1bmVaMHVTZWwvYlhBcFZsWEF5clNHQzlzaFNFSEV5SjI5b2daYm8yZEdWYk5Kd0lRU05yWmZtOUJyRmFqQmc9PQo="
     }
   }
 }
