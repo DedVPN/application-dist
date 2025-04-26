@@ -1,7 +1,7 @@
 {
   "version": "0.5.0",
   "notes": "Публичный релиз приложения",
-  "pub_date": "27.04.2025",
+  "pub_date": "2025-04-27T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "url": "https://github.com/DedVPN/application-dist/raw/refs/heads/master/dist/windows-x64/DedVPN_0.5.0_x64_ru-RU.msi?download=",
