@@ -1,10 +1,10 @@
 {
-  "version": "0.9.0",
+  "version": "0.9.2",
   "notes": "",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/DedVPN/application-dist/raw/refs/heads/master/dist/windows-x64/DedVPN_0.9.0_x64_ru-RU.msi?download=",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWUhpb29UckNlbkJWZ1pOeHFpK0hwZWxXL1pzY1Z1N1BzbVBlWGJqUUI3UjNySHBnVHJHY29UU2wwQmdZSU5Tdkc2TE9lYldteCtmdzkxaXNaV3BSdjZieXZSTVZ5c1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2NTM2MzkzCWZpbGU6RGVkVlBOXzAuOS4wX3g2NF9ydS1SVS5tc2kKV2d6Y0RTbHdwUyttUThlSG5SSUkwak8wNWdVNTJWOW02T0VldjlEWUFlcTVQQ3lQck1DbzA0US9Ka1JRTGJhdTZRSHFTUWpoeFVlQ1AwUHlNdlUyQXc9PQo="
+      "url": "https://github.com/DedVPN/application-dist/raw/refs/heads/master/dist/windows-x64/DedVPN_0.9.2_x64_ru-RU.msi?download=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWUhpb29UckNlbk11Q1AzNFN2UlBWV3c3c0NCNngyVDVHcE9BNlV3ZEc0czBIdlFwSy9TWmJLc2FXOTlBTktXMjBvK21MOGRlaE1PT2pGMkgzbThKbEs2ZVZGb3h6cVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2NTM4NDcwCWZpbGU6RGVkVlBOXzAuOS4yX3g2NF9ydS1SVS5tc2kKVHRkREE3cTJFbXI4dDArNGVvTVdHdjllNGYyenA3N0pZTUlKb2VQdlN4M0JaNlFCRzBUQ0lxeTQzdHFQQlpnVU1jVVAzSmRvN1dMelB4QzhVdVdaQUE9PQo="
     }
   }
 }
